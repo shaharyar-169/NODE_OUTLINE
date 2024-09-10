@@ -1,0 +1,9 @@
+1. NODEMAILER           // send verification mail to the user 
+2. SOCKET.IO            // integreate the realtime cheat 
+3. GENERATE TOKENS USING JWT, SESSION, PASSPORT          // generate the tokens for user security
+4. MIDDLEWARES          // create a middlewares to uthenticate the user
+5. PATH MODULE          // use this module to managing the file path
+6. FS MODULE            // use this module to manage the files 
+7. HTTP MODULE          // use this module to create the local server
+
+      
